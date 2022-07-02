@@ -3,5 +3,6 @@ def hello():
 
 CapsWrongVariable='sillyme'
 MoreCaps = 'silly too'
+ThreeWrongs='abc'
 
 hello()
