@@ -1,8 +1,8 @@
 def hello():
   print('Hello is the first code added.')
 
-CapsWrongVariable='sillyme'
-MoreCaps = 'silly too'
-ThreeWrongs='abc'
+caps_wrong_variable='sillyme'
+more_caps = 'silly too'
+three_wrongs='abc'
 
 hello()
